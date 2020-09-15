@@ -1,3 +1,12 @@
 {
-    "PixelSize": 0.07
+    "PixelSize": 0.07,
+    "FovWidth": 140,
+    "FovHeight": 140,
+    "Species": "undocumented",
+    "Organ": "undocumented",
+    "Location": "undocumented",
+    "SampleFixation": "undocumented",
+    "Channels": 1,
+    "BitDepth": 8,
+    "Environement": "exvivo"
 }

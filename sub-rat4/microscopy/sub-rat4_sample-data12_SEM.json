@@ -1,3 +1,12 @@
 {
-    "PixelSize": 0.1
+    "PixelSize": 0.1,
+    "FovWidth": 82,
+    "FovHeight": 77,
+    "Species": "rat",
+    "Organ": "spinal cord",
+    "Location": "cervical",
+    "SampleFixation": "3% paraformaldehyde - 3% glutaraldehyde",
+    "Channels": 1,
+    "BitDepth": 8,
+    "Environement": "exvivo"
 }
