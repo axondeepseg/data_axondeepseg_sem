@@ -1,0 +1,10 @@
+{
+    "sample_id": {
+        "LongName": "Sample ID",
+        "Description": "Unique sample ID"
+    },
+    "participant_id": {
+        "LongName": "Participant ID",
+        "Description": "Participant ID from whom tissue samples have been acquired"
+    }
+}
