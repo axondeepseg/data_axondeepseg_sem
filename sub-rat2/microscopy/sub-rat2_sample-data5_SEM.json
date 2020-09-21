@@ -7,5 +7,5 @@
     "SampleFixation": "4% paraformaldehyde - 0% glutaraldehyde",
     "Channels": 1,
     "BitDepth": 8,
-    "Environement": "exvivo"
+    "Environment": "exvivo"
 }
