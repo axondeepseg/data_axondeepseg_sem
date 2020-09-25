@@ -4,7 +4,7 @@
     "FovHeight": 89,
     "Species": "rat",
     "BodyPart": "CSPINE",
-    "SampleFixation": "4% paraformaldehyde - 0% glutaraldehyde",
+    "SampleFixation": "4% paraformaldehyde, 0% glutaraldehyde",
     "Channels": 1,
     "BitDepth": 8,
     "Environment": "exvivo"
