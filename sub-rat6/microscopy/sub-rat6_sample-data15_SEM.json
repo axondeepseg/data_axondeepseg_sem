@@ -1,5 +1,5 @@
 {
-    "PixelSize": 0.13,
+    "PixelSize": [0.13, 0.13],
     "FieldOfView": [150, 97],
     "BodyPart": "CSPINE",
     "SampleFixation": "3% paraformaldehyde, 3% glutaraldehyde",
