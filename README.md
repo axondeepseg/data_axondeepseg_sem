@@ -1,4 +1,6 @@
-# data_example_microscopy_sem
-Example dataset containing scanning electron microscopy (SEM) data to illustrate BIDS convention.
+# data_axondeepseg_sem
+AxonDeepSeg scanning electron microscopy (SEM) dataset
+10 rat spinal cord samples with axon and myelin manual segmentation labels.
 
-Microscopy BEP031 version 0.0.2 (2020-09-21T09:21:00)
+Example dataset containing SEM data to illustrate BIDS convention.
+Microscopy BEP031 version 0.0.4 (2021-07-13T15:14:00)
