@@ -2,7 +2,5 @@
     "PixelSize": 0.07,
     "FovWidth": 140,
     "FovHeight": 140,
-    "Channels": 1,
-    "BitDepth": 8,
     "Environment": "exvivo"
 }
