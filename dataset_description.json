@@ -1,5 +1,5 @@
 {
-	"Name": "data_example_microscopy_sem",
-	"BIDSVersion":"1.4.0",
+	"Name": "data_axondeepseg_sem",
+	"BIDSVersion":"1.6.0 - BEP031 v0.0.4",
 	"License": "MIT"
 }

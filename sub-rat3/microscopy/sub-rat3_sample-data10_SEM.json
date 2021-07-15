@@ -1,11 +1,7 @@
 {
-    "PixelSize": 0.1,
-    "FovWidth": 74,
-    "FovHeight": 76,
-    "Species": "rat",
+    "PixelSize": [0.1, 0.1],
+    "FieldOfView": [74, 76],
     "BodyPart": "CSPINE",
     "SampleFixation": "3% paraformaldehyde, 3% glutaraldehyde",
-    "Channels": 1,
-    "BitDepth": 8,
     "Environment": "exvivo"
 }

@@ -1,6 +1,8 @@
 {
     "participant_id": {
-        "LongName": "Participant ID",
         "Description": "Unique participant ID"
+    },
+    "species": {
+        "Description": "Binomial species name from the NCBI Taxonomy (https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi)"
     }
 }

@@ -1,9 +1,9 @@
-participant_id
-sub-rat1
-sub-rat2
-sub-rat3
-sub-rat4
-sub-rat5
-sub-rat6
-sub-rat7
-sub-rat8
+participant_id	species
+sub-rat1	rattus norvegicus
+sub-rat2	rattus norvegicus
+sub-rat3	rattus norvegicus
+sub-rat4	rattus norvegicus
+sub-rat5	rattus norvegicus
+sub-rat6	rattus norvegicus
+sub-rat7	rattus norvegicus
+sub-rat8	rattus norvegicus
