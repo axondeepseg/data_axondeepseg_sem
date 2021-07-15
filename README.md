@@ -1,5 +1,5 @@
 # data_axondeepseg_sem
-AxonDeepSeg scanning electron microscopy (SEM) dataset
+SEM dataset for AxonDeepSeg (https://axondeepseg.readthedocs.io/)
 
 10 rat spinal cord samples with axon and myelin manual segmentation labels.
 
