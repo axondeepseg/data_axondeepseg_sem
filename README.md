@@ -5,4 +5,4 @@ SEM dataset for AxonDeepSeg (https://axondeepseg.readthedocs.io/)
 
 Example dataset containing scanning electron microscopy (SEM) data to illustrate BIDS convention.
 
-BIDS version 1.6.0 - Microscopy BEP031 version 0.0.4 (2021-07-13T15:14:00)
+BIDS version 1.6.0 - Microscopy BEP031 version 0.0.5 (2021-09-07T14:20:00)
