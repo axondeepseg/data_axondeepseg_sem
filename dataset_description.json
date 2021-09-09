@@ -1,6 +1,7 @@
 {
 	"Name": "data_axondeepseg_sem",
 	"BIDSVersion": "1.6.0 - BEP031 v0.0.5",
+	"License": "MIT",
 	"Authors": ["Pierre-Louis Antonsanti",
 	            "Marie-Hélène Bourget",
 	            "Julien Cohen-Adad",
@@ -13,5 +14,5 @@
 	            "Ariane Saliani",
 	            "Maxime Wabartha",
 	            "Aldo Zaimi"],
-	"License": "MIT"
+	"DatasetDOI": "doi:10.5281/zenodo.5498378"
 }
