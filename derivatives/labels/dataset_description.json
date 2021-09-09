@@ -1,5 +1,5 @@
 {
 	"Name": "data_axondeepseg_sem labels",
-	"BIDSVersion": "1.6.0 - BEP031 v0.0.4",
+	"BIDSVersion": "1.6.0 - BEP031 v0.0.5",
 	"PipelineDescription": {"Name": "Axon and myelin manual segmentation labels"}
 }

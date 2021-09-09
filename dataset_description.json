@@ -1,5 +1,17 @@
 {
 	"Name": "data_axondeepseg_sem",
-	"BIDSVersion":"1.6.0 - BEP031 v0.0.4",
+	"BIDSVersion": "1.6.0 - BEP031 v0.0.5",
+	"Authors": ["Pierre-Louis Antonsanti",
+	            "Marie-Hélène Bourget",
+	            "Julien Cohen-Adad",
+	            "Tanguy Duval",
+	            "Alexandru Foias",
+	            "Victor Herman",
+	            "Nafisa Husein",
+	            "Harris Nami",
+	            "Christian S. Perone",
+	            "Ariane Saliani",
+	            "Maxime Wabartha",
+	            "Aldo Zaimi"],
 	"License": "MIT"
 }
