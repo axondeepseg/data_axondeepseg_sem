@@ -1,7 +1,17 @@
 {
 	"Name": "data_axondeepseg_sem",
 	"BIDSVersion": "1.6.0 - BEP031 v0.0.5",
-	"Authors": "List of individuals who contributed to the creation/curation of the dataset.",
-	"HowToAcknowledge": "Text containing instructions on how researchers using this dataset should acknowledge the original authors. This field can also be used to define a publication that should be cited in publications that use the dataset.",
+	"Authors": ["Pierre-Louis Antonsanti",
+	            "Marie-Hélène Bourget",
+	            "Julien Cohen-Adad",
+	            "Tanguy Duval",
+	            "Alexandru Foias",
+	            "Victor Herman",
+	            "Nafisa Husein",
+	            "Harris Nami",
+	            "Christian S. Perone",
+	            "Ariane Saliani",
+	            "Maxime Wabartha",
+	            "Aldo Zaimi"],
 	"License": "MIT"
 }
