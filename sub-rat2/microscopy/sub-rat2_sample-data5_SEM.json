@@ -3,5 +3,5 @@
     "PixelSizeUnits": "um",
     "BodyPart": "CSPINE",
     "SampleFixation": "4% paraformaldehyde, 0% glutaraldehyde",
-    "Environment": "exvivo"
+    "SampleEnvironment": "exvivo"
 }
