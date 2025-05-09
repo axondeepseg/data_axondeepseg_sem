@@ -1,0 +1,28 @@
+The following is a high-level summary of the changes this dataset underwent
+over the years, based on its git history.
+
+0.06 2025-04-30
+
+- Modify masks for 6/10 samples to separate fibers with a 1 px delineation
+
+- Update author list and README
+
+0.05 2021-11-30
+
+- Update dataset after BEP031 community review
+
+0.04 2021-09-13
+
+- Add DOI
+
+0.03 2021-07-15
+
+- Enrich metadata
+
+0.02 2020-10-08
+
+- Format according to BIDS structure
+
+0.01 2020-07-21
+
+- Initial data upload
