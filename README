@@ -1,7 +1,14 @@
 # data_axondeepseg_sem
 
 SEM dataset for AxonDeepSeg (https://axondeepseg.readthedocs.io/)
-10 rat spinal cord samples with axon and myelin manual segmentation labels. This dataset comprises acquisitions conducted by various researchers between 2015 and 2017. The images represent small cropped sections extracted from larger mosaic images.
+
+- 10 rat spinal cord samples (cervical level) with axon and myelin manual segmentation labels.
+
+- Isotropic pixel size resolution ranging from 0.05 to 0.18 um
+
+- Every touching fiber is separated by a 1 pixel delineation in the masks.
+
+- This dataset comprises acquisitions conducted by various researchers between 2015 and 2017. The images represent small cropped sections extracted from larger mosaic images.
 
 Example dataset containing scanning electron microscopy (SEM) data to illustrate BIDS convention.
 BIDS version 1.7.0
